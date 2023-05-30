@@ -1,5 +1,4 @@
 # Parallel-subgraph-homomorphism
 
 # 说明
-通过修改constant.h中的宏定义来选择程序功能  
-当前代码有点乱，后续有时间会重构代码
+论文：面向大图数据的混合图模式同态匹配多核并行算法研究
